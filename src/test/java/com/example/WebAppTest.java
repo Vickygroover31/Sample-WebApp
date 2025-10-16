@@ -7,7 +7,7 @@ import org.junit.Test;
 public class WebAppTest {
 	@Test
 	public void appsAdd() {
-		assertEquals(6, WebApp.add(3, 5));
+		assertEquals(6, WebApp.add(3, 3));
 		
 	}
 
